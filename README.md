@@ -33,8 +33,12 @@ Company      | Entry Date | Leave Date | Form
 -------------|------------|------------|-------
 파트리지시스템즈  | 2021-10    |  재직 중     | 정규직
 
+## [2. Introduction](https://github.com/samchon/resume/blob/master/STORY.md#2-introduction)
+MLOps 및 DataOps 기반의 산업용 데이터 솔루션을 개발하고 있는 4년차 백엔드 개발자입니다.
+저는 '지속 성장 가능한 소프트웨어'를 만드는 것을 가장 중요한 개발 가치로 여깁니다. '지속 성장'이란 서비스가 성장함에 따라 코드와 아키텍처 또한 유연하게 성장할 수 있어야 한다는 의미입니다. 처음부터 완벽한 설계를 추구하기보다는, 최소한의 규칙을 지키면서 빠르게 서비스를 구축한 후, 지속적인 리팩토링과 개선을 통해 코드의 품질을 높여나가는 것을 선호합니다.
+
 <!-- ## [3. My Projects](https://github.com/samchon/resume/blob/master/STORY.md#3-my-projects) -->
-## [2. Commercial Projects](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
+## [3. Commercial Projects](https://github.com/samchon/resume/blob/master/STORY.md#4-commercial-projects)
 Company        | Project                | Skills              | Special Note
 ---------------|------------------------|---------------------|---------------------
 파트리지시스템즈    | 1     | C++, Flex           | GPU on Browser
